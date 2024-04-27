@@ -1,0 +1,2 @@
+ccp_alpha,criterion,max_depth,max_features,min_samples_leaf,min_samples_split
+1e-05,entropy,14,,1,6
