@@ -213,7 +213,7 @@ opencv=4.9.0=qt6_py311hb77b0fa_610
 openexr=3.2.2=haf962dd_1
 openh264=2.4.1=h59595ed_0
 openjpeg=2.5.2=h488ebb8_0
-openssl=3.2.1=hd590300_1
+openssl=3.3.0=hd590300_0
 opt_einsum=3.3.0=pyhc1e730c_2
 p11-kit=0.24.1=hc5aa10d_0
 packaging=24.0=pyhd8ed1ab_0
@@ -270,6 +270,7 @@ setuptools=69.5.1=pyhd8ed1ab_0
 sip=6.7.12=py311hb755f60_0
 six=1.16.0=pyh6c4a22f_0
 snappy=1.1.10=hdb0a2a9_1
+squarify=0.4.3=py_0
 stack_data=0.6.2=pyhd8ed1ab_0
 svt-av1=1.8.0=h59595ed_0
 tbb=2021.12.0=h00ab1b0_0
