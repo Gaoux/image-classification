@@ -12,7 +12,7 @@ asttokens=2.4.1=pyhd8ed1ab_0
 astunparse=1.6.3=pyhd8ed1ab_0
 attr=2.5.1=h166bdaf_1
 attrs=23.2.0=pyh71513ae_0
-blinker=1.8.1=pyhd8ed1ab_0
+blinker=1.8.2=pyhd8ed1ab_0
 blosc=1.21.5=h0f2a231_0
 brotli=1.1.0=hd590300_1
 brotli-bin=1.1.0=hd590300_1
@@ -33,7 +33,7 @@ charset-normalizer=3.3.2=pyhd8ed1ab_0
 click=8.1.7=unix_pyh707e725_0
 comm=0.2.2=pyhd8ed1ab_0
 contourpy=1.2.1=py311h9547e67_0
-cryptography=42.0.6=py311h4a61cc7_0
+cryptography=42.0.7=py311h4a61cc7_0
 cycler=0.12.1=pyhd8ed1ab_0
 dav1d=1.2.1=hd590300_0
 dbus=1.13.6=h5008d03_3
@@ -219,6 +219,7 @@ p11-kit=0.24.1=hc5aa10d_0
 packaging=24.0=pyhd8ed1ab_0
 pandas=2.2.2=py311h320fe9a_0
 parso=0.8.4=pyhd8ed1ab_0
+patsy=0.5.6=pyhd8ed1ab_0
 pcre2=10.43=hcad00b1_0
 pexpect=4.9.0=pyhd8ed1ab_0
 pickleshare=0.7.5=py_1003
@@ -266,12 +267,15 @@ rsa=4.9=pyhd8ed1ab_0
 scikit-image=0.22.0=py311h320fe9a_2
 scikit-learn=1.4.2=py311hc009520_0
 scipy=1.13.0=py311h517d4fd_1
+seaborn=0.13.2=hd8ed1ab_2
+seaborn-base=0.13.2=pyhd8ed1ab_2
 setuptools=69.5.1=pyhd8ed1ab_0
 sip=6.7.12=py311hb755f60_0
 six=1.16.0=pyh6c4a22f_0
 snappy=1.1.10=hdb0a2a9_1
 squarify=0.4.3=py_0
 stack_data=0.6.2=pyhd8ed1ab_0
+statsmodels=0.14.1=py311h1f0f07a_0
 svt-av1=1.8.0=h59595ed_0
 tbb=2021.12.0=h00ab1b0_0
 tensorboard=2.15.2=pyhd8ed1ab_0
@@ -291,7 +295,7 @@ typing_extensions=4.11.0=pyha770c72_0
 tzdata=2024a=h0c530f3_0
 urllib3=2.2.1=pyhd8ed1ab_0
 wcwidth=0.2.13=pyhd8ed1ab_0
-werkzeug=3.0.2=pyhd8ed1ab_0
+werkzeug=3.0.3=pyhd8ed1ab_0
 wheel=0.43.0=pyhd8ed1ab_1
 wrapt=1.14.1=py311hd4cff14_1
 x264=1!164.3095=h166bdaf_2
